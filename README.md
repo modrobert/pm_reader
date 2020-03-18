@@ -11,6 +11,8 @@
 
 Command line tool which reads data from PMS7003 particle sensor and calculates AQI with several output options.
 
+Reference for calculation: https://en.wikipedia.org/wiki/Air_quality_index#Computing_the_AQI
+
 ---
 
 ### Usage
