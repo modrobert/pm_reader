@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) 2020  Robert V. <modrobert@gmail.com> 
+# Copyright (C) 2020  Robert V. <modrobert@gmail.com>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
