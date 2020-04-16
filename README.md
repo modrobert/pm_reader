@@ -60,7 +60,7 @@ $ ./pm_reader.py --json
 
 ### Tip
 
-In Linux you can use 'conky' to display the AQI as follows:
+In Linux you can use 'conky' to display the AQI on desktop as follows:
 
 <pre>
 conky -d -a bottom_right -y 0 -t '${exec pm_reader.py}' -u 5
