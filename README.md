@@ -56,3 +56,12 @@ $ ./pm_reader.py --json
 {"pm1_0cf1": 34, "pm2_5cf1": 50, "pm10cf1": 56, "pm1_0": 27, "pm2_5": 41, "pm10": 51, "n0_3": 6102, "n0_5": 1749, "n1_0": 344, "n2_5": 18, "n5_0": 6, "n10": 2, "aqi2_5": 137, "aqi10": 51}
 </pre>
 
+---
+
+### Tip
+
+In Linux you can use 'conky' to display the AQI as follows:
+
+<pre>
+conky -d -a bottom_right -y 0 -t '${exec pm_reader.py}' -u 5
+</pre>
